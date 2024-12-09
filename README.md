@@ -1,2 +1,2 @@
-# -Frontend-Mentor-Frontend-Mentor-Product-preview-card
+# Frontend-Mentor-Product-preview-card
 IEEE Task
